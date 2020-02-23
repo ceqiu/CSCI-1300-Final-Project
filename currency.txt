@@ -1,0 +1,155 @@
+AED|United Arab Emirates dirham|United Arab Emirates|27.22
+AFN|Afghan afghani|Afghanistan|1.30
+ALL|Albanian lek|Albania|0.89
+AMD|Armenian dram|Armenia|0.21
+ANG|Netherlands Antillean guilder|Curaçao (CW),Sint Maarten (SX)|55.84
+AOA|Angolan kwanza|Angola|0.20
+ARS|Argentine peso|Argentina|1.62
+AUD|Australian dollar|Australia,Christmas Island (CX),Cocos (Keeling) Islands (CC),Heard Island and McDonald Islands (HM),Kiribati (KI),Nauru (NR),Norfolk Island (NF),Tuvalu (TV)|66.26
+AWG|Aruban florin|Aruba|55.56
+AZN|Azerbaijani manat|Azerbaijan|58.69
+BAM|Bosnia and Herzegovina convertible mark|Bosnia and Herzegovina|55.23
+BBD|Barbados dollar|Barbados|49.50
+BDT|Bangladeshi taka|Bangladesh|1.18
+BGN|Bulgarian lev|Bulgaria|55.47
+BHD|Bahraini dinar|Bahrain|265.34
+BIF|Burundian franc|Burundi|0.05
+BMD|Bermudian dollar|Bermuda|100
+BND|Brunei dollar|Brunei|71.38
+BOB|Boliviano|Bolivia|14.45
+BRL|Brazilian real|Brazil|22.78
+BSD|Bahamian dollar|Bahamas|99.96
+BTN|Bhutanese ngultrum|Bhutan|1.39
+BWP|Botswana pula|Botswana|9.03
+BYN|Belarusian ruble|Belarus|0.005
+BZD|Belize dollar|Belize|49.59
+CAD|Canadian dollar|Canada|75.61
+CDF|Congolese franc|Democratic Republic of the Congo|0.06
+CHF|Swiss franc	|Switzerland,Liechtenstein (LI)|102.23
+CLP|Chilean peso|Chile|0.12
+CNY|Renminbi (Chinese) yuan|China|14.23
+COP|Colombian peso|Colombia|0.03
+CRC|Costa Rican colon|Costa Rica|0.18
+CUP|Cuban peso|Cuba|3.77
+CVE|Cape Verdean escudo|Cabo Verde|0.98
+CZK|Czech koruna|Czechia|4.33
+DJF|Djiboutian franc|Djibouti|0.56
+DKK|Danish krone|Denmark,Faroe Islands (FO),Greenland (GL)|14.52
+DOP|Dominican peso|Dominican Republic|1.87
+DZD|Algerian dinar|Algeria|0.83
+EGP|Egyptian pound|Egypt|6.43
+ERN|Eritrean nakfa|Eritrea|6.67
+ETB|Ethiopian birr|Ethiop|3.10
+EUR|Euro|Aland Islands (AX),European Union (EU),Andorra (AD), Austria (AT),Belgium (BE),Cyprus (CY),Estonia (EE),Finland (FI),France (FR),French Southern and Antarctic Lands (TF),Germany (DE),Greece (GR),Guadeloupe (GP),Ireland (IE),Italy (IT),Kosovo (XK),Latvia (LV),Lithuania (LT),Luxembourg (LU),Malta (MT),French Guiana (GF),Martinique (MQ),Mayotte (YT),Monaco (MC),Montenegro (ME),Netherlands (NL),Portugal (PT),Reunion (RE),Saint Barthelemy (BL),Saint Martin (MF),Saint Pierre and Miquelon (PM),San Marino (SM),Slovakia (SK),Slovenia (SI),Spain (ES),Holy See (VA)|108.47
+FJD|Fiji dollar|Fiji|45.12
+FKP|Falkland Islands pound|Falkland Islands|129.85
+GBP|Pound sterling|United Kingdom,British Indian Ocean Territory (IO),the Isle of Man (IM),Jersey (JE),Guernsey (GG)|129.62
+GEL|Georgian lari|Georgia|35.40
+GHS|Ghanaian cedi|Ghana|18.80
+GIP|Gibraltar pound|Gibraltar|129.58
+GMD|Gambian dalasi|Gambia|1.97
+GNF|Guinean franc|Guinea|0.01
+GTQ|Guatemalan quetzal|Guatemala|13.08
+GYD|Guyanese dollar|Guyana|0.48
+HKD|Hong Kong dollar|Hong Kong|12.84
+HNL|Honduran lempira|Honduras|4.01
+HRK|Croatian kuna|Croatia|14.56
+HTG|Haitian gourde|Haiti|1.02
+HUF|Hungarian forint|Hungary|0.32
+IDR|Indonesian rupiah|Indonesia|0.007
+ILS|Israeli new shekel|Israel,Palestinian Authority|29.27
+INR|Indian rupee|India,  Bhutan|1.39
+IQD|Iraqi dinar|Iraq|0.08
+IRR|Iranian rial|Iran|0.002
+ISK|Icelandic krona|Iceland|0.78
+JMD|Jamaican dollar|Jamaica|0.72
+JOD|Jordanian dinar|Jordan|141.04
+JPY|Japanese yen|Japan|0.90
+KES|Kenyan shilling|Kenya|0.99
+KGS|Kyrgyzstani som|Kyrgyzstan|1.43
+KHR|Cambodian riel|Cambodia|0.02
+KMF|Comoro franc|Comoros|0.22
+KPW|North Korean won|North Korea|0.11
+KRW|South Korean won|South Korea|0.08
+KWD|Kuwaiti dinar|Kuwait|326.20
+KYD|Cayman Islands dollar|Cayman Islands|119.95
+KZT|Kazakhstani tenge|Kazakhstan|0.27
+LAK|Lao kip|Laos|0.01
+LBP|Lebanese pound|Lebanon|0.07
+LKR|Sri Lankan rupee|Sri Lanka|0.55
+LRD|Liberian dollar|Liberia|0.51
+LSL|Lesotho loti|Lesotho|6.68
+LYD|Libyan dinar|Libya|70.67
+MAD|Moroccan dirham|Morocco,Western Sahara|10.31
+MDL|Moldovan leu|Moldova|5.62
+MGA|Malagasy ariary|Madagascar|0.03
+MKD|Macedonian denar|North Macedonia|1.76
+MMK|Myanmar kyat|Myanmar|0.07
+MNT|Mongolian togrog|Mongolia|0.04
+MOP|Macanese pataca|Macau|12.45
+MRU|Mauritanian ouguiya|Mauritania|0.28
+MUR|Mauritian rupee|Mauritius|2.66
+MVR|aldivian rufiyaa|Maldives|6.49
+MWK|Malawian kwacha|Malawi|0.14
+MXN|Mexican peso|Mexico|5.29
+MYR|Malaysian ringgit|Malaysia|23.87
+MZN|Mozambican metical|Mozambique|1.54
+NAD|Namibian dollar|Namibia|6.68
+NGN|Nigerian naira|Nigeria|0.28
+NIO|Nicaraguan córdoba|Nicaragua|2.92
+NOK|Norwegian krone|Norway,Svalbard and Jan Mayen (SJ),Bouvet Island (BV)|10.77
+NPR|Nepalese rupee|Nepal|0.87
+NZD|New Zealand dollar|New Zealand,Cook Islands (CK),Niue (NU),Pitcairn Islands (PN),Tokelau (TK)|63.48
+OMR|Omani rial|Oman|259.76
+PAB|Panamanian balboa|Panama|99.96
+PEN|Peruvian sol|Peru|29.53
+PGK|Papua New Guinean kina|Papua New Guinea|29.40
+PHP|Philippine peso|Philippines|1.97
+PKR|Pakistani rupee|Pakistan|0.65
+PLN|Polish złoty|Poland|25.30
+PYG|Paraguayan guarani|Paraguay|0.02
+QAR|Qatari riyal|Qatar|27.46
+RON|Romanian leu|Romania|22.61
+RSD|Serbian dinar|Serbia|0.92
+RUB|Russian ruble|Russia|1.56
+RWF|Rwandan franc|Rwanda|0.11
+SAR|Saudi riyal|Saudi Arabia|26.66
+SBD|Solomon Islands dollar|Solomon Islands|12.11
+SCR|Seychelles rupee|Seychelles|7.30
+SDG|Sudanese pound|Sudan|1.88
+SEK|Swedish krona/kronor|Sweden|10.29
+SGD|Singapore dollar|Singapore|71.55
+SHP|Saint Helena pound|Saint Helena (SH-SH),Ascension Island (SH-AC),Tristan da Cunha|129.58
+SLL|Sierra Leonean leone|Sierra Leone|0.01
+SOS|Somali shilling|Somalia|0.17
+SRD|Surinamese dollar|Suriname|13.41
+STN|Sao Tome and Principe dobra|Sao Tome and Principe|0.005
+SVC|Salvadoran colon|El Salvador|11.42
+SYP|Syrian pound|Syria|0.19
+SZL|Swazi lilangeni|Eswatini|6.64
+THB|Thai baht|Thailand|3.17
+TJS|Tajikistani somoni|Tajikistan|10.31
+TMT|Turkmenistan manat|Turkmenistan|28.49
+TND|Tunisian dinar|Tunisia|35.16
+TOP|Tongan pa'anga|Tonga|43.09
+TRY|Turkish lira|Turkey,Northern Cyprus|16.40
+TTD|Trinidad and Tobago dollar|Trinidad and Tobago|14.78
+TWD|New Taiwan dollar|Taiwan|3.29
+TZS|Tanzanian shilling|Tanzania|0.04
+UAH|Ukrainian hryvnia|Ukraine|4.09
+UGX|Ugandan shilling|Uganda|0.03
+USD|United States dollar|United States,American Samoa (AS),Barbados (BB),Bermuda (BM),British Indian Ocean Territory (IO),British Virgin Islands (VG),Caribbean Netherlands (BQ – Bonaire, Sint Eustatius and Saba),Ecuador (EC),El Salvador (SV),Guam (GU),Haiti (HT),Marshall Islands (MH),Federated States of Micronesia (FM),Northern Mariana Islands (MP),Palau (PW),Panama (PA),Puerto Rico (PR),Timor-Leste (TL),Turks and Caicos Islands (TC),U.S. Virgin Islands (VI),United States Minor Outlying Islands (UM),Cambodia|100
+UYU|Uruguayan peso|Uruguay|2.62
+UZS|Uzbekistan som|Uzbekistan|0.01
+VES|Venezuelan bolívar soberano|Venezuela|10.01
+VND|Vietnamese dong|Vietnam|0.004
+VUV|Vanuatu vatu|Vanuatu|0.85
+WST|Samoan tala|Samoa|36.54
+XAF|CFA franc BEAC|Cameroon (CM),Central African Republic (CF),Republic of the Congo (CG),Chad (TD),Equatorial Guinea (GQ),Gabon (GA)|0.16
+XCD|East Caribbean dollar|Anguilla (AI),Antigua and Barbuda (AG), Dominica (DM),Grenada (GD),Montserrat (MS),Saint Kitts and Nevis (KN),Saint Lucia (LC),Saint Vincent and the Grenadines (VC)|37.00
+XOF|CFA franc BCEAO	 Benin (BJ),Burkina Faso (BF),Cote d'Ivoire (CI),Guinea-Bissau (GW),Mali (ML),Niger (NE),Senegal (SN),Togo (TG)|0.16
+XPF|CFP franc (franc Pacifique)|French Polynesia (PF),New Caledonia (NC),Wallis and Futuna (WF)|0.91
+YER|Yemeni rial|Yemen|0.40
+ZAR|South African rand|Lesotho,Namibia,South Africa|6.67
+ZMW|Zambian kwacha|Zambia|6.85
+ZWL|Zimbabwean dollar|Zimbabwe|0.31
